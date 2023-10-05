@@ -1,6 +1,8 @@
-# inreactum
-First steps in React JS and Tailwind CSS: a simple portfolio with a functional contact form.
+# React + Vite
 
-///
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Testing waters with React via reading docs, watching some tutorials and trying to put something coherent together. Nothing complicated here, just the basic component-based portfolio to learn how does React behave. Packing for production was done using Vite. 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
